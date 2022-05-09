@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/CMakeFiles/external_VulkanMemoryAllocator"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/CMakeFiles/external_VulkanMemoryAllocator.rule"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/CMakeFiles/external_VulkanMemoryAllocator-complete.rule"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-install.rule"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-mkdir.rule"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-download.rule"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-update.rule"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-patch.rule"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-configure.rule"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-build.rule"
+		},
+		{
+			"file" : "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"external_VulkanMemoryAllocator"
+		],
+		"name" : "external_VulkanMemoryAllocator"
+	}
+}

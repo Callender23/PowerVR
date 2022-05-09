@@ -1,0 +1,14 @@
+# Target labels
+ external_glslang
+# Source files and their labels
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/CMakeFiles/external_glslang
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/CMakeFiles/external_glslang.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/CMakeFiles/external_glslang-complete.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/src/external_glslang-stamp/external_glslang-install.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/src/external_glslang-stamp/external_glslang-mkdir.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/src/external_glslang-stamp/external_glslang-download.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/src/external_glslang-stamp/external_glslang-update.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/src/external_glslang-stamp/external_glslang-patch.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/src/external_glslang-stamp/external_glslang-configure.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/src/external_glslang-stamp/external_glslang-build.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/download/src/external_glslang-stamp/external_glslang-test.rule

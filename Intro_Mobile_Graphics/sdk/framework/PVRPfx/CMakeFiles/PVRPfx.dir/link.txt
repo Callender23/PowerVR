@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPVRPfx.a  CMakeFiles/PVRPfx.dir/EffectVk.cpp.o CMakeFiles/PVRPfx.dir/RenderManagerVk.cpp.o
+/usr/bin/ranlib libPVRPfx.a

@@ -1,0 +1,14 @@
+# Target labels
+ external_VulkanMemoryAllocator
+# Source files and their labels
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/CMakeFiles/external_VulkanMemoryAllocator
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/CMakeFiles/external_VulkanMemoryAllocator.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/CMakeFiles/external_VulkanMemoryAllocator-complete.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-install.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-mkdir.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-download.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-update.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-patch.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-configure.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-build.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/VulkanMemoryAllocator/download/src/external_VulkanMemoryAllocator-stamp/external_VulkanMemoryAllocator-test.rule

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPVRShell.a  CMakeFiles/PVRShell.dir/Shell.cpp.o CMakeFiles/PVRShell.dir/StateMachine.cpp.o CMakeFiles/PVRShell.dir/OS/Linux/InternalOS.cpp.o CMakeFiles/PVRShell.dir/OS/Linux/X11/ShellOS.cpp.o CMakeFiles/PVRShell.dir/EntryPoint/main/main.cpp.o
+/usr/bin/ranlib libPVRShell.a

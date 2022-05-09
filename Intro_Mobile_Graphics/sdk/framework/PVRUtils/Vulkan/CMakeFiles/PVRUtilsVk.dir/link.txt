@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPVRUtilsVk.a  CMakeFiles/PVRUtilsVk.dir/AccelerationStructure.cpp.o CMakeFiles/PVRUtilsVk.dir/HelperVk.cpp.o CMakeFiles/PVRUtilsVk.dir/MemoryAllocator.cpp.o CMakeFiles/PVRUtilsVk.dir/PBRUtilsVk.cpp.o CMakeFiles/PVRUtilsVk.dir/ShaderUtilsVk.cpp.o CMakeFiles/PVRUtilsVk.dir/SpriteVk.cpp.o CMakeFiles/PVRUtilsVk.dir/UIRendererVk.cpp.o
+/usr/bin/ranlib libPVRUtilsVk.a

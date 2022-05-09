@@ -1,0 +1,222 @@
+[
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -ffast-math -pthread -std=c++11 -o CMakeFiles/glslang.dir/CInterface/glslang_c_interface.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/CInterface/glslang_c_interface.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/CInterface/glslang_c_interface.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -x c++-header -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/cmake_pch.hxx.gch -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx.cxx",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx.cxx"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/glslang_tab.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/glslang_tab.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/glslang_tab.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/attribute.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/attribute.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/attribute.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Constant.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Constant.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Constant.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/iomapper.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/iomapper.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/iomapper.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/InfoSink.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/InfoSink.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/InfoSink.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Initialize.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Initialize.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Initialize.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/IntermTraverse.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/IntermTraverse.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/IntermTraverse.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Intermediate.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Intermediate.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Intermediate.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/ParseContextBase.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/ParseContextBase.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/ParseContextBase.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/ParseHelper.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/ParseHelper.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/ParseHelper.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/PoolAlloc.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/PoolAlloc.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/PoolAlloc.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/RemoveTree.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/RemoveTree.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/RemoveTree.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Scan.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Scan.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Scan.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/ShaderLang.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/ShaderLang.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/ShaderLang.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/SymbolTable.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/SymbolTable.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/SymbolTable.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/Versions.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Versions.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/Versions.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/intermOut.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/intermOut.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/intermOut.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/limits.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/limits.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/limits.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/linkValidate.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/linkValidate.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/linkValidate.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/parseConst.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/parseConst.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/parseConst.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/reflection.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/reflection.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/reflection.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/Pp.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/Pp.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/Pp.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpAtom.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/PpAtom.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/PpAtom.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpContext.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/PpContext.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/PpContext.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpScanner.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/PpScanner.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/PpScanner.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/preprocessor/PpTokens.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/PpTokens.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/preprocessor/PpTokens.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -Winvalid-pch -include /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/CMakeFiles/MachineIndependent.dir/cmake_pch.hxx -o CMakeFiles/MachineIndependent.dir/MachineIndependent/propagateNoContraction.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/propagateNoContraction.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/MachineIndependent/propagateNoContraction.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/GenericCodeGen.dir/GenericCodeGen/CodeGen.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/GenericCodeGen/CodeGen.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/GenericCodeGen/CodeGen.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/GenericCodeGen.dir/GenericCodeGen/Link.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/GenericCodeGen/Link.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/GenericCodeGen/Link.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/glslang/OSDependent/Unix",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -pthread -std=c++11 -o CMakeFiles/OSDependent.dir/ossource.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/OSDependent/Unix/ossource.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/glslang/OSDependent/Unix/ossource.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/OGLCompilersDLL",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/OGLCompiler.dir/InitializeDll.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/OGLCompilersDLL/InitializeDll.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/OGLCompilersDLL/InitializeDll.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPVRemapper.dir/SPVRemapper.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/SPVRemapper.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/SPVRemapper.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPVRemapper.dir/doc.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/doc.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/doc.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/GlslangToSpv.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/GlslangToSpv.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/GlslangToSpv.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/InReadableOrder.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/InReadableOrder.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/InReadableOrder.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/Logger.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/Logger.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/Logger.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/SpvBuilder.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/SpvBuilder.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/SpvBuilder.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/SpvPostProcess.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/SpvPostProcess.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/SpvPostProcess.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/doc.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/doc.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/doc.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/SpvTools.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/SpvTools.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/SpvTools.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/disassemble.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/disassemble.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/disassemble.cpp"
+},
+{
+  "directory": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/build/SPIRV",
+  "command": "/usr/bin/c++  -DENABLE_OPT=0 -DGLSLANG_OSINCLUDE_UNIX -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/.. -I/home/wafer/Native_SDK/Intro_Mobile_Graphics/include  -O3 -DNDEBUG -fPIC   -Wall -Wmaybe-uninitialized -Wuninitialized -Wunused -Wunused-local-typedefs -Wunused-parameter -Wunused-value -Wunused-variable -Wunused-but-set-parameter -Wunused-but-set-variable -fno-exceptions -Wno-reorder -fno-rtti -Werror=deprecated-copy -std=c++11 -o CMakeFiles/SPIRV.dir/CInterface/spirv_c_interface.cpp.o -c /home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/CInterface/spirv_c_interface.cpp",
+  "file": "/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glslang/src/SPIRV/CInterface/spirv_c_interface.cpp"
+}
+]

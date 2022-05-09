@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator/archive/v2.3.0.tar.gz'
+tag='MD5=1846f2b0f04c485356cd7ce31a02a2be'

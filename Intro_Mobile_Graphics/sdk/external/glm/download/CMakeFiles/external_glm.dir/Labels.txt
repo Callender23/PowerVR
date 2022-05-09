@@ -1,0 +1,14 @@
+# Target labels
+ external_glm
+# Source files and their labels
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/CMakeFiles/external_glm
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/CMakeFiles/external_glm.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/CMakeFiles/external_glm-complete.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/src/external_glm-stamp/external_glm-install.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/src/external_glm-stamp/external_glm-mkdir.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/src/external_glm-stamp/external_glm-download.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/src/external_glm-stamp/external_glm-update.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/src/external_glm-stamp/external_glm-patch.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/src/external_glm-stamp/external_glm-configure.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/src/external_glm-stamp/external_glm-build.rule
+/home/wafer/Native_SDK/Intro_Mobile_Graphics/sdk/external/glm/download/src/external_glm-stamp/external_glm-test.rule
