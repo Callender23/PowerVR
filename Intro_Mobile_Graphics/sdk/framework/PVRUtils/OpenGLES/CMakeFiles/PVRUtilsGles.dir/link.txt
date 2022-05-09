@@ -1,2 +1,0 @@
-/usr/bin/ar qc libPVRUtilsGles.a  CMakeFiles/PVRUtilsGles.dir/ConvertToGlesTypes.cpp.o CMakeFiles/PVRUtilsGles.dir/ErrorsGles.cpp.o CMakeFiles/PVRUtilsGles.dir/ModelGles.cpp.o CMakeFiles/PVRUtilsGles.dir/PBRUtilsGles.cpp.o CMakeFiles/PVRUtilsGles.dir/ShaderUtilsGles.cpp.o CMakeFiles/PVRUtilsGles.dir/SpriteGles.cpp.o CMakeFiles/PVRUtilsGles.dir/TextureUtilsGles.cpp.o CMakeFiles/PVRUtilsGles.dir/UIRendererGles.cpp.o CMakeFiles/PVRUtilsGles.dir/__/EGL/EglPlatformContext.cpp.o
-/usr/bin/ranlib libPVRUtilsGles.a

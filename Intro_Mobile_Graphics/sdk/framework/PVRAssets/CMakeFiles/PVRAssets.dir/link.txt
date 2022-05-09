@@ -1,2 +1,0 @@
-/usr/bin/ar qc libPVRAssets.a  CMakeFiles/PVRAssets.dir/fileio/GltfReader.cpp.o CMakeFiles/PVRAssets.dir/fileio/PODReader.cpp.o CMakeFiles/PVRAssets.dir/Helper.cpp.o CMakeFiles/PVRAssets.dir/model/Animation.cpp.o CMakeFiles/PVRAssets.dir/model/Camera.cpp.o CMakeFiles/PVRAssets.dir/model/Light.cpp.o CMakeFiles/PVRAssets.dir/model/Mesh.cpp.o CMakeFiles/PVRAssets.dir/model/Model.cpp.o CMakeFiles/PVRAssets.dir/ShadowVolume.cpp.o CMakeFiles/PVRAssets.dir/Volume.cpp.o
-/usr/bin/ranlib libPVRAssets.a

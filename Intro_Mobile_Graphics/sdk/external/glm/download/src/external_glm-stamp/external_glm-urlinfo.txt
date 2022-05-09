@@ -1,3 +1,0 @@
-repository='external project URL'
-module='https://github.com/g-truc/glm/archive/0.9.9.4.tar.gz'
-tag='MD5=e60bcfb57c53b03e55cb4fc2f2cc58e6'

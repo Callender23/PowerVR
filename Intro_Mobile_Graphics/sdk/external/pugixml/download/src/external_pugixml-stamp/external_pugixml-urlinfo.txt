@@ -1,3 +1,0 @@
-repository='external project URL'
-module='https://github.com/zeux/pugixml/releases/download/v1.10/pugixml-1.10.tar.gz'
-tag='MD5=f97237e9908201c6d8536210747b66af'

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libPVRCamera.a  CMakeFiles/PVRCamera.dir/CameraInterface_Dummy.cpp.o
-/usr/bin/ranlib libPVRCamera.a
